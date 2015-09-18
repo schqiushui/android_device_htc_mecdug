@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_htc_e8-common",
+    "target_path": "device/htc/e8-common"
+  }
+]
